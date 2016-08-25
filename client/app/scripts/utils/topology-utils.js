@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import { is as isDeepEqual, Map as makeMap, Set as makeSet } from 'immutable';
+import { Set as makeSet } from 'immutable';
 
 /**
  * Returns a cache ID based on the topologyId and optionsQuery
